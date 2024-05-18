@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'Lowball';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Lowball'), url('./LowballRegularText-X3ax2.ttf') format('woff');
+}
+
+@font-face {
+    font-family: 'Lowball';
+    font-style: normal;
+    font-weight: 500;
+    src: local('Lowball'), url('./LowballMediumDisplay-mLmwV.ttf') format('woff');
+}
+
+@font-face {
+    font-family: 'Lowball';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Lowball'), url('./LowballBoldSubhead-vmq9Z.ttf') format('woff');
+}

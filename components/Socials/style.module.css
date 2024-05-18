@@ -1,0 +1,30 @@
+.socials {
+    display: flex;
+    gap: 20px;
+}
+
+.socials li {
+    background: #1d1d1d;
+    height: 50px;
+    width: 50px;
+    line-height: 50px;
+    text-align: center;
+    color: #cfcfcf;
+    transition: 0.4s;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.socials li:hover {
+    background-image: linear-gradient(to right, #5a0dff -5%, #FF29B8 31%, #FF581C);
+}
+
+@media only screen and (max-width: 768px) {
+
+    .socials {
+        gap: 10px;
+    }
+}

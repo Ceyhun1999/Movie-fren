@@ -1,0 +1,39 @@
+.header {
+    background: linear-gradient(180deg, rgba(44, 44, 44, 0.8) 0%, rgba(52, 51, 51, 0) 100%);
+    position: relative;
+}
+
+.header__content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 0;
+}
+
+.nav ul {
+    display: flex;
+    gap: 40px;
+}
+
+.nav ul li {
+    color: #fff;
+    font-size: 22px;
+    display: flex;
+    gap: 10px;
+}
+
+.menuMobileBtn {
+    display: none;
+    cursor: pointer;
+    padding: 10px;
+}
+
+@media only screen and (max-width: 768px) {
+    .nav>ul:first-child {
+        display: none;
+    }
+
+    .menuMobileBtn {
+        display: block;
+    }
+}

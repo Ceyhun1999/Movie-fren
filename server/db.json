@@ -1,0 +1,103 @@
+{
+    "movies": [
+        {
+            "img": "https://holaa.codexshaper.com/wp/wp-content/uploads/2024/03/card-big-1.webp",
+            "id": 1,
+            "title": "Nebula’s Embrace",
+            "type": "Animation, Comedy, Cartoon",
+            "star": 7.8,
+            "time": 120
+        },
+
+        {
+            "img": "https://holaa.codexshaper.com/wp/wp-content/uploads/2024/03/card-big-3.webp",
+            "id": 2,
+            "title": "Shadow Blitz",
+            "type": "Action, War, Crime",
+            "star": 8.3,
+            "time": 120
+        },
+
+        {
+            "img": "https://holaa.codexshaper.com/wp/wp-content/uploads/2024/03/card-big-2.webp",
+            "id": 3,
+            "title": "The Ark Mans",
+            "type": "Action, Comedy, Crime",
+            "star": 5.8,
+            "time": 120
+        },
+        {
+            "img": "https://holaa.codexshaper.com/wp/wp-content/uploads/2024/03/trending-3.png",
+            "id": 4,
+            "title": "Enigma of Shadows",
+            "type": "Hiking, Drama, Family",
+            "star": 9.1,
+            "time": 180
+        },
+
+        {
+            "img": "https://holaa.codexshaper.com/wp/wp-content/uploads/2024/03/card-big-5.webp",
+            "id": 5,
+            "title": "The Tarrot",
+            "type": "Action, Comedy, Crime",
+            "star": 7.3,
+            "time": 120
+        },
+        {
+            "img": "https://holaa.codexshaper.com/wp/wp-content/uploads/2024/04/2-1-1.png",
+            "id": 6,
+            "title": "The Avakas",
+            "type": "Action, Comedy, Crime",
+            "star": 7.8,
+            "time": 120
+        },
+        {
+            "img": "https://holaa.codexshaper.com/wp/wp-content/uploads/2024/04/2-31.png",
+            "id": 7,
+            "title": "The Godfather",
+            "type": "Action, Comedy, Crime",
+            "star": 8,
+            "time": 120
+        },
+        {
+            "img": "https://holaa.codexshaper.com/wp/wp-content/uploads/2024/03/card-big-10.webp",
+            "id": 8,
+            "title": "The Phantom Menace",
+            "type": "Action, Comedy, Crime",
+            "star": 8,
+            "time": 120
+        },
+        {
+            "img": "https://holaa.codexshaper.com/wp/wp-content/uploads/2024/03/Rectangle-210-1.png",
+            "id": 9,
+            "title": "Hideo Kojima",
+            "type": "Action, Comedy, Crime",
+            "star": 8,
+            "time": 120
+        },
+        {
+            "img": "https://holaa.codexshaper.com/wp/wp-content/uploads/2024/03/card-big-11.webp",
+            "id": 10,
+            "title": "An Original Film",
+            "type": "Action, Comedy, Crime",
+            "star": 8,
+            "time": 120
+        },
+        {
+            "img": "https://holaa.codexshaper.com/wp/wp-content/uploads/2024/03/card-big-6.webp",
+            "id": 11,
+            "title": "don’t exposed",
+            "type": "Action, Comedy, Crime",
+            "star": 8,
+            "time": 120
+        },
+        {
+            "img": "https://holaa.codexshaper.com/wp/wp-content/uploads/2024/03/Rectangle-205.webp",
+            "id": 12,
+            "title": "don’t exposed",
+            "type": "Action, Comedy, Crime",
+            "star": 8,
+            "time": 120
+        }
+    ]
+}
