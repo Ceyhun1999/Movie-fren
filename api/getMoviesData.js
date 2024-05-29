@@ -5,3 +5,9 @@ export const getMoviesData = async (page = 1) => {
     const data = res.data.data;
     return data;
 };
+
+export const getBlogsData = async () => {
+    const res = await axios.get(`http://localhost:3001/blogs`);
+    const data = res.data;
+    return data;
+};

@@ -81,6 +81,35 @@
     font-size: 15px;
 }
 
+.input {
+    border: 2px solid #fff;
+    border-radius: 20px;
+    background: transparent;
+    padding: 10px 20px;
+    color: #fff;
+    outline: none;
+    margin-top: 40px;
+}
+
+.btn {
+    background-image: linear-gradient(to right, #5a0dff -5%, #ff29b8 31%, #ff581c, #ff29b8, #5a0dff);
+    border: none;
+    color: #fff;
+    text-transform: uppercase;
+    padding: 10px 15px;
+    margin-top: 40px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.blockSearch {
+    display: flex;
+    gap: 20px;
+    border-radius: 20px;
+    align-items: center;
+    justify-content: center;
+}
+
 .movie__detailInfo span {
     display: flex;
     align-items: center;
@@ -152,6 +181,16 @@
         visibility: visible;
         opacity: 1;
     }
+
+    .blockSearch {
+       flex-direction: column;
+       gap: 0;
+    }
+    .section__title {
+       
+        font-size: 30px;
+    }
+    
 }
 
 @media only screen and (max-width: 600px) {

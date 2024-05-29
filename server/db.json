@@ -6,7 +6,8 @@
             "title": "Nebula’s Embrace",
             "type": "Animation, Comedy, Cartoon",
             "star": 7.8,
-            "time": 120
+            "time": 120,
+            "video": "https://www.youtube.com/watch?v=VsOykR7cj_g"
         },
 
         {
@@ -15,7 +16,8 @@
             "title": "Shadow Blitz",
             "type": "Action, War, Crime",
             "star": 8.3,
-            "time": 120
+            "time": 120,
+            "video": ""
         },
 
         {
@@ -24,7 +26,8 @@
             "title": "The Ark Mans",
             "type": "Action, Comedy, Crime",
             "star": 5.8,
-            "time": 120
+            "time": 120,
+            "video": ""
         },
         {
             "img": "https://holaa.codexshaper.com/wp/wp-content/uploads/2024/03/trending-3.png",
@@ -32,7 +35,8 @@
             "title": "Enigma of Shadows",
             "type": "Hiking, Drama, Family",
             "star": 9.1,
-            "time": 180
+            "time": 180,
+            "video": ""
         },
 
         {
@@ -41,7 +45,8 @@
             "title": "The Tarrot",
             "type": "Action, Comedy, Crime",
             "star": 7.3,
-            "time": 120
+            "time": 120,
+            "video": ""
         },
         {
             "img": "https://holaa.codexshaper.com/wp/wp-content/uploads/2024/04/2-1-1.png",
@@ -49,7 +54,8 @@
             "title": "The Avakas",
             "type": "Action, Comedy, Crime",
             "star": 7.8,
-            "time": 120
+            "time": 120,
+            "video": ""
         },
         {
             "img": "https://holaa.codexshaper.com/wp/wp-content/uploads/2024/04/2-31.png",
@@ -57,7 +63,8 @@
             "title": "The Godfather",
             "type": "Action, Comedy, Crime",
             "star": 8,
-            "time": 120
+            "time": 120,
+            "video": ""
         },
         {
             "img": "https://holaa.codexshaper.com/wp/wp-content/uploads/2024/03/card-big-10.webp",
@@ -65,7 +72,8 @@
             "title": "The Phantom Menace",
             "type": "Action, Comedy, Crime",
             "star": 8,
-            "time": 120
+            "time": 120,
+            "video": ""
         },
         {
             "img": "https://holaa.codexshaper.com/wp/wp-content/uploads/2024/03/Rectangle-210-1.png",
@@ -73,7 +81,8 @@
             "title": "Hideo Kojima",
             "type": "Action, Comedy, Crime",
             "star": 8,
-            "time": 120
+            "time": 120,
+            "video": ""
         },
         {
             "img": "https://holaa.codexshaper.com/wp/wp-content/uploads/2024/03/card-big-11.webp",
@@ -81,7 +90,8 @@
             "title": "An Original Film",
             "type": "Action, Comedy, Crime",
             "star": 8,
-            "time": 120
+            "time": 120,
+            "video": ""
         },
         {
             "img": "https://holaa.codexshaper.com/wp/wp-content/uploads/2024/03/card-big-6.webp",
@@ -89,7 +99,8 @@
             "title": "don’t exposed",
             "type": "Action, Comedy, Crime",
             "star": 8,
-            "time": 120
+            "time": 120,
+            "video": ""
         },
         {
             "img": "https://holaa.codexshaper.com/wp/wp-content/uploads/2024/03/Rectangle-205.webp",
@@ -97,7 +108,46 @@
             "title": "don’t exposed",
             "type": "Action, Comedy, Crime",
             "star": 8,
-            "time": 120
+            "time": 120,
+            "video": ""
+        }
+    ],
+    "blogs": [
+        {
+            "id": 1,
+            "title": "The Expendables",
+            "desc": "Lorem Lorem Lorem",
+            "img": "https://i0.wp.com/jasonsmovieblog.com/wp-content/uploads/2024/05/ex-4-e1715044881729.jpeg?resize=860%2C280&ssl=1"
+        },
+        {
+            "id": 2,
+            "title": "KINGDOM OF THE PLANET",
+            "desc": "Lorem Lorem Lorem",
+            "img": "https://jasonsmovieblog.com/wp-content/uploads/2024/05/kingdom_of_the_planet_of_the_apes_movie_poster-1024x577.avif"
+        },
+        {
+            "id": 3,
+            "title": "ORDINARY ANGELS",
+            "desc": "Lorem Lorem Lorem",
+            "img": "https://i0.wp.com/jasonsmovieblog.com/wp-content/uploads/2024/04/Angel-4-e1714012226181.webp?w=1118&ssl=1"
+        },
+        {
+            "id": 4,
+            "title": "AQUAMAN AND THE LOST KINGDOM",
+            "desc": "Lorem Lorem Lorem",
+            "img": "https://i0.wp.com/jasonsmovieblog.com/wp-content/uploads/2024/04/Lost-2-e1713475789527.jpg?w=1119&ssl=1"
+        },
+        {
+            "id": 5,
+            "title": " A CHILD OF FIRE",
+            "desc": "Lorem Lorem Lorem",
+            "img": "https://i0.wp.com/jasonsmovieblog.com/wp-content/uploads/2024/04/Rebel-6-e1712975819102.webp?resize=1024%2C847&ssl=1"
+        },
+        {
+            "id": 6,
+            "title": "FURIOSA",
+            "desc": "Lorem Lorem Lorem",
+            "img": "https://i0.wp.com/jasonsmovieblog.com/wp-content/uploads/2024/04/Furiosa-Mad-Max-Saga-trailer-still-1.jpeg?resize=1024%2C577&ssl=1"
         }
     ]
 }
