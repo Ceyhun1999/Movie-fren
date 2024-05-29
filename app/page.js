@@ -10,6 +10,7 @@ export default async function Home() {
             <TrendingMovies />
             <Advantages />
             <Blogs />
+            {/*4279310013767388 */}
         </main>
     );
 }
