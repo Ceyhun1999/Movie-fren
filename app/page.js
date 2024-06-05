@@ -10,7 +10,6 @@ export default async function Home() {
             <TrendingMovies />
             <Advantages />
             <Blogs />
-           
         </main>
     );
 }

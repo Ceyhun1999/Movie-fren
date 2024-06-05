@@ -6,8 +6,33 @@ export const getMoviesData = async (page = 1) => {
     return data;
 };
 
+export const getBooksData = async () => {
+    const res = await axios.get(`http://localhost:3001/books`);
+    const data = res.data;
+    return data;
+};
+
+export const getGamesData = async () => {
+    const res = await axios.get(`http://localhost:3001/games`);
+    const data = res.data;
+    return data;
+};
+
+export const getGameData = async (id) => {
+    const res = await axios.get(`http://localhost:3001/games/${id}`);
+    const data = res.data;
+    return data;
+};
+
+
 export const getBlogsData = async () => {
     const res = await axios.get(`http://localhost:3001/blogs`);
+    const data = res.data;
+    return data;
+};
+
+export const getBlogData = async (id) => {
+    const res = await axios.get(`http://localhost:3001/blogs/${id}`);
     const data = res.data;
     return data;
 };

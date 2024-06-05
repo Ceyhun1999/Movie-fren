@@ -17,14 +17,14 @@ const Blogs = async () => {
                 <div className={styles.blogs__inner}>
                     {blogs.map((item) => (
                         <div
+                            key={item.id}
                             style={{
-                                background:
-                                    `url(${item.img}) center/cover`,
+                                background: `url(${item.img}) center/cover`,
                             }}
                         >
                             <h3>{item.title}</h3>
                             <div className={styles.overlay}></div>
-                            <Link className={styles.btn} href={""}>
+                            <Link className={styles.btn} href={`blog/${item.id}`}>
                                 Read more
                             </Link>
                         </div>

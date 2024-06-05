@@ -15,24 +15,27 @@ function MainSlider() {
                 <div className="container">
                     <div className={styles.info}>
                         <div>
-                            <FaStar color="#696969" size={20} /> 4.9 Reviews
+                            <FaStar color="#696969" size={20} /> 8.3 Reviews
                         </div>
                         <div>
-                            <MdAccessTimeFilled color="#696969" size={20} /> 02h 30m
+                            <MdAccessTimeFilled color="#696969" size={20} /> 03h 00m 22s
                         </div>
                         <div>
                             <MdHighQuality color="#696969" size={20} />
                             4k Quality
                         </div>
                     </div>
-                    <h2>THE DARK BEAUTY</h2>
-                    <p>Enjoy your favorite moves, tv show, sports, news, Live event and entertainment streaming now!</p>
+                    <h2>Oppenheimer</h2>
+                    <p>Oppenheimer is a 2023 epic biographical thriller drama film written, directed, and produced by Christopher Nolan. On March 10, 2024, he received an Oscar.</p>
                     <div className={styles.btns}>
-                        <Link target="_blank" className={styles.watchBtn} href={"https://www.youtube.com/watch?v=pJpkk4QZcnY"}>
+                        <Link target="_blank" className={styles.watchBtn} href={"https://rutube.ru/video/b1ef29a224dbdc74562c41856e74bae9/?r=plwd"}>
                             <FaPlay />
                             Watch now
                         </Link>
-                       
+                        <Link target="_blank" className={styles.trailerBtn} href={"https://rutube.ru/video/09044df69146c9890a3a6a44398dd927/?r=plwd"}>
+                            <FaPlay />
+                            Trailer
+                        </Link>
                     </div>
                     <video
                         src="https://holaa.codexshaper.com/wp/wp-content/uploads/2024/03/e86032ef-9397-4888-9d12-7246be9d81bb.mp4"

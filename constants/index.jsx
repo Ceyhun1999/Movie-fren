@@ -1,20 +1,34 @@
-const { CgWebsite } = require("react-icons/cg");
-const { FaBlog, FaQuestion, FaFacebook, FaTwitter, FaLinkedin, FaInstagram, FaFacebookF } = require("react-icons/fa");
+const { CgWebsite, CgGames } = require("react-icons/cg");
+const { FaQuestion, FaTwitter, FaLinkedin, FaInstagram, FaFacebookF } = require("react-icons/fa");
 const { IoHomeOutline } = require("react-icons/io5");
+import { SiBookstack } from "react-icons/si";
 
 export const menuItems = [
     {
         title: "Home",
         icon: <IoHomeOutline />,
+        href: "/",
+    },
+    {
+        title: "Books",
+        icon: <SiBookstack />,
+        href: "/books",
+    },
+    {
+        title: "Games",
+        icon: <CgGames />,
+        href: "/games",
     },
     {
         title: "About",
         icon: <CgWebsite />,
+        href: "/about",
     },
 
     {
         title: "Faq",
         icon: <FaQuestion />,
+        href: "/faq",
     },
 ];
 

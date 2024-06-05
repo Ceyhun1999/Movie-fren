@@ -1,23 +1,24 @@
 import Image from "next/image";
-import { getBlogData } from "../../../../api/getMoviesData";
+import { getGameData } from "../../../../api/getMoviesData";
 import styles from "./style.module.css";
+import Modal from "../../../../components/Modal/Modal";
 
 async function SinglePostPage({ params: { slug } }) {
-    const blogData = await getBlogData(slug);
+    const gameData = await getGameData(slug);
     return (
         <section>
             <div className="container">
-                <div className={styles.blogSlug}>
+                <div className={styles.gameSlug}>
                     <Image
                         style={{
                             objectFit: "cover",
-                            width: '100%',
-                            borderRadius: '20pxS'
+                            width: "100%",
+                            borderRadius: "20pxS",
                         }}
                         width={500}
                         height={500}
-                        src={blogData.img}
-                        alt={blogData.title}
+                        src={gameData.img}
+                        alt={gameData.title}
                     />
                     <p
                         style={{
@@ -25,8 +26,9 @@ async function SinglePostPage({ params: { slug } }) {
                             fontSize: "20px",
                         }}
                     >
-                        {blogData.desc}
+                        {gameData.desc}
                     </p>
+                    <Modal activationKey={gameData.activationKey} href={gameData.href}/>
                 </div>
             </div>
         </section>

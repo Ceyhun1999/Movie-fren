@@ -1,122 +1,231 @@
 {
     "movies": [
         {
-            "img": "https://holaa.codexshaper.com/wp/wp-content/uploads/2024/03/card-big-1.webp",
+            "img": "https://posterdrops-images.s3.amazonaws.com/art_images/unnamed%20-%202022-05-12T122739.233_1652372939.png",
             "id": 1,
-            "title": "Nebula’s Embrace",
-            "type": "Animation, Comedy, Cartoon",
-            "star": 7.8,
-            "time": 120,
-            "video": "https://www.youtube.com/watch?v=VsOykR7cj_g"
+            "title": "The Lord of the Rings: The Fellowship of the Ring (Extended Edition)",
+            "type": "Epic Fantasy, Action, Adventure, Drama",
+            "star": 9.5,
+            "time": 228,
+            "video": "https://rutube.ru/video/8391cfaa37be01c3cc215e63e652711b/?r=plwd"
         },
-
         {
-            "img": "https://holaa.codexshaper.com/wp/wp-content/uploads/2024/03/card-big-3.webp",
+            "img": "https://i.pinimg.com/736x/94/a5/ec/94a5ec15650e8d54eb222894a565f865.jpg",
             "id": 2,
-            "title": "Shadow Blitz",
-            "type": "Action, War, Crime",
-            "star": 8.3,
-            "time": 120,
-            "video": ""
+            "title": "The Lord of the Rings: The Two Towers (Extended Edition)",
+            "type": "Epic Fantasy, Action, War, Adventure, Drama",
+            "star": 9.3,
+            "time": 235,
+            "video": "https://rutube.ru/video/1a74d335caf87941b21741fd7c71e4e6/?r=plwd"
         },
-
         {
-            "img": "https://holaa.codexshaper.com/wp/wp-content/uploads/2024/03/card-big-2.webp",
+            "img": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/488baddb-9be9-4fde-83be-0dab06fdec15/d4jr01y-c9c75e96-ec8b-4b42-9169-87abae3a0a55.jpg/v1/fill/w_774,h_1032,q_70,strp/the_lord_of_the_rings__return_of_the_king_by_agustin09_d4jr01y-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI4MCIsInBhdGgiOiJcL2ZcLzQ4OGJhZGRiLTliZTktNGZkZS04M2JlLTBkYWIwNmZkZWMxNVwvZDRqcjAxeS1jOWM3NWU5Ni1lYzhiLTRiNDItOTE2OS04N2FiYWUzYTBhNTUuanBnIiwid2lkdGgiOiI8PTk2MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.ULkp8UyXm3pHEt2f1sgtwsH3lDmeg5-MmcwbNU9yx5o",
             "id": 3,
-            "title": "The Ark Mans",
-            "type": "Action, Comedy, Crime",
-            "star": 5.8,
-            "time": 120,
-            "video": ""
+            "title": "The Lord of the Rings: The Return of the King (Extended Edition)",
+            "type": "Epic Fantasy, Action, War, Adventure, Drama",
+            "star": 9.8,
+            "time": 263,
+            "video": "https://rutube.ru/video/f763beb56ed1161b01d155e455cbc27f/?r=plwd"
         },
         {
-            "img": "https://holaa.codexshaper.com/wp/wp-content/uploads/2024/03/trending-3.png",
+            "img": "https://lh3.googleusercontent.com/proxy/XJ9XdSBFuKY64BZ5Hy-sOByCqTKMsGA467E5dUP_Cwouqv4S_hfKtI7ikTkpnkbhESgMR2Grrb8a7CcCVltxxLHsa7ao0yY2juWVOuDYXPO5RCD1OTA8lrnURUvwBNQtNLeybkPQwY5liftcjGeZ",
             "id": 4,
-            "title": "Enigma of Shadows",
-            "type": "Hiking, Drama, Family",
-            "star": 9.1,
-            "time": 180,
-            "video": ""
+            "title": "The Lord of the Rings: The Rings of Power",
+            "type": "Epic Fantasy, Action, Adventure, Drama",
+            "star": 7.5,
+            "time": 60,
+            "video": "https://rutube.ru/plst/367094/"
         },
 
         {
-            "img": "https://holaa.codexshaper.com/wp/wp-content/uploads/2024/03/card-big-5.webp",
+            "img": "https://images.justwatch.com/poster/215748688/s718/the-hobbit-an-unexpected-journey.%7Bformat%7D",
             "id": 5,
-            "title": "The Tarrot",
-            "type": "Action, Comedy, Crime",
-            "star": 7.3,
-            "time": 120,
-            "video": ""
+            "title": "The Hobbit: An Unexpected Journey (Extended Edition)",
+            "type": "Epic Fantasy, Adventure",
+            "star": 8.6,
+            "time": 182,
+            "video": "https://rutube.ru/video/321d31f4787a5d8596a0996f95bd09f3/?r=plwd"
         },
         {
-            "img": "https://holaa.codexshaper.com/wp/wp-content/uploads/2024/04/2-1-1.png",
+            "img": "https://external-preview.redd.it/gFgdvE3l-3kzxc3ZZeCKY5Q7HKkXfFzNK4Tk7rRM6D8.jpg?auto=webp&s=6888c525e1e1fd1e6f187a8d90a119cabc7dca17",
             "id": 6,
-            "title": "The Avakas",
-            "type": "Action, Comedy, Crime",
-            "star": 7.8,
-            "time": 120,
-            "video": ""
+            "title": "The Hobbit: The Desolation of Smaug (Extended Edition)",
+            "type": "Epic Fantasy, Action, Adventure",
+            "star": 7.9,
+            "time": 161,
+            "video": "https://rutube.ru/video/c42c1bc4be0601105a57fff8ee15d491/?r=plwd"
         },
         {
-            "img": "https://holaa.codexshaper.com/wp/wp-content/uploads/2024/04/2-31.png",
+            "img": "https://img.huffingtonpost.com/asset/5d017bbb2500004e12df41b8.jpeg?ops=scalefit_720_noupscale",
             "id": 7,
-            "title": "The Godfather",
-            "type": "Action, Comedy, Crime",
-            "star": 8,
-            "time": 120,
-            "video": ""
+            "title": "The Hobbit: The Battle of the Five Armies (Extended Edition)",
+            "type": "Epic Fantasy, War, Adventure, Drama",
+            "star": 8.4,
+            "time": 204,
+            "video": "https://rutube.ru/video/9bf808896688a60d145905c6a32f1ab5/?r=plwd"
         },
         {
-            "img": "https://holaa.codexshaper.com/wp/wp-content/uploads/2024/03/card-big-10.webp",
+            "img": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//catalog-image/102/MTA-124079834/no-brand_no-brand_full02.jpg",
             "id": 8,
-            "title": "The Phantom Menace",
-            "type": "Action, Comedy, Crime",
-            "star": 8,
-            "time": 120,
-            "video": ""
+            "title": "Mortal Engines",
+            "type": "Science fiction, Adventure",
+            "star": 7.4,
+            "time": 128,
+            "video": "https://rutube.ru/video/4eb2c02554c44afa8b406e7a8f0b263c/?r=plwd"
         },
         {
-            "img": "https://holaa.codexshaper.com/wp/wp-content/uploads/2024/03/Rectangle-210-1.png",
+            "img": "https://imgsrv.crunchyroll.com/cdn-cgi/image/format=auto,fit=contain,width=480,height=720,quality=85/catalog/crunchyroll/2995bef133df4020b3acbfe7a694cbdf.jpe",
             "id": 9,
-            "title": "Hideo Kojima",
-            "type": "Action, Comedy, Crime",
-            "star": 8,
-            "time": 120,
-            "video": ""
+            "title": "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su",
+            "type": "Fantasy, Adventure, Anime",
+            "star": 8.1,
+            "time": 25,
+            "video": "https://anidub.pro/full/11787-rubezh-shangri-la-ljubitel-igroshlaka-brosaet-vyzov-top-igre-shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su-01-iz-24.html"
         },
         {
-            "img": "https://holaa.codexshaper.com/wp/wp-content/uploads/2024/03/card-big-11.webp",
+            "img": "https://i0.wp.com/thefangirlverdict.com/wp-content/uploads/2016/11/moon-lovers-001.jpg?resize=611%2C864&ssl=1",
             "id": 10,
-            "title": "An Original Film",
-            "type": "Action, Comedy, Crime",
-            "star": 8,
-            "time": 120,
-            "video": ""
+            "title": "Moon Lovers: Scarlet Heart Ryeo",
+            "type": "Drama, Historical, Melodrama, Science Fiction",
+            "star": 7.5,
+            "time": 60,
+            "video": "https://doramy.club/639-dorama-lunnye-vlyublyonnye-alye-serdca-koryo.html"
         },
         {
-            "img": "https://holaa.codexshaper.com/wp/wp-content/uploads/2024/03/card-big-6.webp",
+            "img": "https://doramy.club/wp-content/uploads/2020/10/troecarstvie.jpg",
             "id": 11,
-            "title": "don’t exposed",
-            "type": "Action, Comedy, Crime",
-            "star": 8,
-            "time": 120,
-            "video": ""
+            "title": "Three Kingdoms",
+            "type": "Military, Drama, Historical",
+            "star": 9.2,
+            "time": 44,
+            "video": "https://doramy.club/22944-troecarstvie.html"
         },
         {
-            "img": "https://holaa.codexshaper.com/wp/wp-content/uploads/2024/03/Rectangle-205.webp",
+            "img": "https://m.media-amazon.com/images/I/71HNbJ2OHrL._AC_UF894,1000_QL80_.jpg",
             "id": 12,
-            "title": "don’t exposed",
-            "type": "Action, Comedy, Crime",
-            "star": 8,
-            "time": 120,
-            "video": ""
+            "title": "Vinland Saga Season 1",
+            "type": "Adventure, History, Drama, Anime",
+            "star": 8.8,
+            "time": 25,
+            "video": "https://anidub.pro/full/10828-saga-o-vinlande-vinland-saga-01-iz-24.html"
+        },
+        {
+            "img": "https://m.media-amazon.com/images/S/pv-target-images/d5e6d001f9536faa9970bb57f7d07569c82c979a9dc4ea74c7cfe8e48fbc7779.jpg",
+            "id": 13,
+            "title": "Vinland Saga Season 2",
+            "type": "Adventure, History, Drama, Anime",
+            "star": 8.3,
+            "time": 25,
+            "video": "https://anidub.pro/full/11622-saga-o-vinlande-tv-2-vinland-saga-tv-2-01-iz-24.html"
+        },
+
+        {
+            "img": "https://m.media-amazon.com/images/S/pv-target-images/c41d00597bd85ab0703d87b26ddf3bb02d5e95c94ed6af9cbd82ca0abb43352b.jpg",
+            "id": 14,
+            "title": "Pacific Rim",
+            "type": "Fantastic, Action",
+            "star": 7,
+            "time": 131,
+            "video": "https://rutube.ru/video/d945d538188dcb6a5cb2580f4e1296b2/?r=plwd"
+        },
+
+        {
+            "img": "https://m.media-amazon.com/images/M/MV5BMjI3Nzg0MTM5NF5BMl5BanBnXkFtZTgwOTE2MTgwNTM@._V1_.jpg",
+            "id": 15,
+            "title": "Pacific Rim 2",
+            "type": "Fantastic, Action",
+            "star": 6.4,
+            "time": 110,
+            "video": "https://rutube.ru/video/50e3aceabcce17c68fc6117666d15d82/?r=plwd"
+        },
+        {
+            "img": "https://moviemacrocosm.files.wordpress.com/2012/07/52-21-jump-street-2012.jpg?w=640",
+            "id": 16,
+            "title": "21 Jump Street ",
+            "type": "Action, Comedy",
+            "star": 7,
+            "time": 109,
+            "video": "https://kinogo.media/13831-macho-i-botan.html"
+        },
+
+        {
+            "img": "https://play-lh.googleusercontent.com/gH54fmIHyeWoQYn842WYn_qxJ03Wzi9RSJ377C75fWGJqRdBufEnfIldRAZYgu0ZzFs",
+            "id": 17,
+            "title": "22 Jump Street ",
+            "type": "Action, Comedy",
+            "star": 6.7,
+            "time": 111,
+            "video": "https://kinogo.uk/7038-macho-i-botan-2-2014.html"
+        },
+        {
+            "img": "https://m.media-amazon.com/images/M/MV5BMTY0NDY3MDMxN15BMl5BanBnXkFtZTcwOTM5NzMzOQ@@._V1_.jpg",
+            "id": 18,
+            "title": "Now You See Me",
+            "type": "Action, Thriller",
+            "star": 8.1,
+            "time": 115,
+            "video": "https://kinogo-by.online/films/315-illjuzija-obmana-2013-kinogo-smotret-online.html"
+        },
+        {
+            "img": "https://musicart.xboxlive.com/7/58a83100-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080",
+            "id": 19,
+            "title": "Now You See Me 2",
+            "type": "Action, Thriller",
+            "star": 6.6,
+            "time": 129,
+            "video": "https://kinogo-by.online/films/26905-illjuzija-obmana-2-2016-kinogo-smotret-online.html"
+        },
+        {
+            "img": "https://fr.web.img2.acsta.net/pictures/20/06/09/15/43/4197946.jpg",
+            "id": 20,
+            "title": "Kingdom Season 1",
+            "type": "Military, Historical, Adventure, Seinen, Action, Anime",
+            "star": 7.2,
+            "time": 25,
+            "video": "https://anidub.pro/full/8289-imperiya-kingdom.html"
+        },
+        {
+            "img": "https://images.static-bluray.com/products/20/46008_1_front.jpg",
+            "id": 21,
+            "title": "Kingdom Season 2",
+            "type": "Military, Historical, Adventure, Seinen, Action, Anime",
+            "star": 8.2,
+            "time": 25,
+            "video": "https://anidub.pro/full/10769-imperiya-tv-2-kingdom-tv-2-01-iz-39.html"
+        },
+        {
+            "img": "https://m.media-amazon.com/images/M/MV5BZjQzN2U4MDAtNDRjZi00MmEwLWIzZGQtZmQyYjI1ZDI4OWE5XkEyXkFqcGdeQXVyMTMzNDExODE5._V1_.jpg",
+            "id": 22,
+            "title": "Kingdom Season 3",
+            "type": "Military, Historical, Adventure, Seinen, Action, Anime",
+            "star": 9.6,
+            "time": 25,
+            "video": "https://anidub.pro/full/11069-imperiya-tv-3-kingdom-tv-3-39-iz-39.html"
+        },
+        {
+            "img": "https://image.tmdb.org/t/p/original/2r3KL6xqA1wExxv2cDIHn4uwkiX.jpg",
+            "id": 23,
+            "title": "Kingdom Season 4",
+            "type": "Military, Historical, Adventure, Seinen, Action, Anime",
+            "star": 8.9,
+            "time": 25,
+            "video": "https://anidub.pro/full/11455-kingdom.html"
+        },
+        {
+            "img": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/0b2710bf5a9a23b12b79e4ddcdac4696.jpe",
+            "id": 24,
+            "title": "Kingdom Season 5",
+            "type": "Military, Historical, Adventure, Seinen, Action, Anime",
+            "star": 9.2,
+            "time": 25,
+            "video": "https://anidub.pro/anime_ongoing/11874-imperija-tv-5-kingdom-tv-5-01-iz-13.html"
         }
     ],
     "blogs": [
         {
             "id": 1,
             "title": "The Expendables",
-            "desc": "Lorem Lorem Lorem",
+            "desc": "Lorem Lorem Lorem Lorem Lorem LoremLorem Lorem LoremLorem Lorem LoremLorem Lorem LoremLorem Lorem LoremLorem Lorem LoremLorem Lorem LoremLorem Lorem LoremLorem Lorem LoremLorem Lorem LoremLorem Lorem LoremLorem Lorem LoremLorem Lorem LoremLorem Lorem LoremLorem Lorem LoremLorem Lorem LoremLorem Lorem LoremLorem Lorem LoremLorem Lorem LoremLorem Lorem LoremLorem Lorem LoremLorem Lorem LoremLorem Lorem LoremLorem Lorem LoremLorem Lorem LoremLorem Lorem LoremLorem Lorem LoremLorem Lorem LoremLorem Lorem LoremLorem Lorem LoremLorem Lorem LoremLorem Lorem Lorem",
             "img": "https://i0.wp.com/jasonsmovieblog.com/wp-content/uploads/2024/05/ex-4-e1715044881729.jpeg?resize=860%2C280&ssl=1"
         },
         {
@@ -148,6 +257,50 @@
             "title": "FURIOSA",
             "desc": "Lorem Lorem Lorem",
             "img": "https://i0.wp.com/jasonsmovieblog.com/wp-content/uploads/2024/04/Furiosa-Mad-Max-Saga-trailer-still-1.jpeg?resize=1024%2C577&ssl=1"
+        }
+    ],
+    "books": [
+        {
+            "img": "https://content.img-gorod.ru/nomenclature/28/220/2822005.jpg?width=304&height=438&fit=bounds",
+            "id": 1,
+            "title": "Несносный ребенок",
+            "href": "https://www.chitai-gorod.ru/product/lyuk-besson-nesnosnyy-rebenok-avtobiografiya-2822005?productShelf=&shelfIndex=0&productIndex=4"
+        },
+        {
+            "img": "https://content.img-gorod.ru/nomenclature/29/846/2984609_3.jpg?width=304&height=438&fit=bounds",
+            "id": 2,
+            "title": "Это космос, детка!",
+            "href": "https://www.chitai-gorod.ru/product/eto-kosmos-detka-2984609?productShelf=&shelfIndex=0&productIndex=5"
+        },
+        {
+            "img": "https://content.img-gorod.ru/nomenclature/25/089/2508985.jpg?width=304&height=438&fit=bounds",
+            "id": 3,
+            "title": "Кино между раем и адом",
+            "href": "https://www.chitai-gorod.ru/product/kino-mezhdu-raem-i-adom-2508985?productShelf=&shelfIndex=0&productIndex=10"
+        },
+        {
+            "img": "https://content.img-gorod.ru/nomenclature/23/603/2360301.jpg?width=304&height=438&fit=bounds",
+            "id": 4,
+            "title": "Мастерство актера: Техника Чаббак",
+            "href": "https://www.chitai-gorod.ru/product/masterstvo-aktera-tehnika-chabbak-2360301?productShelf=&shelfIndex=0&productIndex=15"
+        }
+    ],
+    "games": [
+        {
+            "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1517290/ss_434b6c5078fae2775350a1d75c81cb2f12a2b7e2.1920x1080.jpg?t=1716897650",
+            "id": 1,
+            "title": "Battlefield™ 2042",
+            "href": "https://steam.kupikod.com/ru-ru/games/battlefield-2042",
+            "desc": "Lorem",
+            "activationKey": 12345
+        },
+        {
+            "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1237970/ss_d5c13576c0ab4e6ca93b51aa39aa74271672e75f.1920x1080.jpg?t=1668565264",
+            "id": 2,
+            "title": "Titanfall® 2: Ultimate Edition",
+            "href": "https://steam.kupikod.com/ru-ru/games/titanfall-2-ultimate-edition",
+            "desc": "Lorem",
+            "activationKey": 12345
         }
     ]
 }

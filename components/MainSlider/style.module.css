@@ -76,12 +76,12 @@
     align-items: center;
 }
 
-.trailerBtn {
+/* .trailerBtn {
     background-image: none;
     color: #696969;
     border: 1px solid #696969;
     background: #000;
-}
+} */
 
 .slider__btns {
     position: absolute;
@@ -97,8 +97,6 @@
         font-size: 80px;
         line-height: 60px;
     }
-
-
 }
 
 

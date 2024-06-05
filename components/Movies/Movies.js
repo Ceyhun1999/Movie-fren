@@ -8,7 +8,7 @@ import Image from "next/image";
 import styles from "./style.module.css";
 import { FaPlay } from "react-icons/fa";
 import { Pagination } from "@mui/material";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { getMoviesData } from "../../api/getMoviesData";
 import Link from "next/link";
 
@@ -16,16 +16,22 @@ function Movies({ movies, title }) {
     const [data, setData] = useState(movies);
     const [filteredData, setFilteredData] = useState(movies);
     const [value, setValue] = useState("");
+
     const handlePagination = async (e, page) => {
         const movies = await getMoviesData(page);
-        setData(movies);
+        setFilteredData(movies);
+        setValue("");
     };
 
     const onChangeValue = (e) => setValue(e.target.value);
     const onSearchMovieByTitle = () => {
-        const filteredMovies = data.filter((movie) => movie.title.toLowerCase().includes(value.toLowerCase()));
+        const filteredMovies = filteredData.filter((movie) => movie.title.toLowerCase().includes(value.toLowerCase()));
         setFilteredData(filteredMovies);
     };
+
+    useEffect(() => {
+        console.log(filteredData);
+    }, [filteredData]);
 
     return (
         <section className={styles.movies}>
@@ -35,15 +41,15 @@ function Movies({ movies, title }) {
                     <h2>{title}</h2>
                 </div>
                 <div className={styles.blockSearch}>
-                    <input defaultValue={value} onChange={onChangeValue} type="text" className={styles.input} />
+                    <input value={value} onChange={onChangeValue} type="text" className={styles.input} />
                     <button onClick={onSearchMovieByTitle} className={styles.btn}>
                         Search
                     </button>
-                    <Pagination count={2} size="large" onChange={handlePagination} />
+                    <Pagination count={3} size="large" onChange={handlePagination} />
                 </div>
                 <div className={styles.movies__list}>
                     {filteredData.length === 0 ? (
-                        <p style={{fontSize: '40px', color: "#fff"}}>Фильмов не найдена</p>
+                        <p style={{ fontSize: "40px", color: "#fff" }}>Фильмов на этой странице не найдена (попробуйте найти в других страницах)</p>
                     ) : (
                         filteredData.map((movie, index) => (
                             <div
@@ -67,7 +73,7 @@ function Movies({ movies, title }) {
                                     </div>
                                     <p className={styles.movie__type}>{movie.type}</p>
                                 </div>
-                                <Link  target="_blank" href={movie.video} className={styles.movie__playBtn}>
+                                <Link target="_blank" href={movie.video} className={styles.movie__playBtn}>
                                     <FaPlay color="#fff" size={30} />
                                 </Link>
                             </div>
